@@ -263,7 +263,7 @@ Maeda, J. _Creative Code: Aesthetics + Computation_. London: Thames & Hudson, 20
 
 _Optional Readings_
 
-Hung, C.K. and J. Frazer and T.M. Xi. _Interactive Evolutionary Design in a Hierarchical Way._ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.generativeart.com/on/cic/ga2001_PDF/frazer.pdf))
+Hung, C.K. and J. Frazer and T.M. Xi. _Interactive Evolutionary Design in a Hierarchical Way._ ([PDF](http://www.generativeart.com/on/cic/ga2001_PDF/frazer.pdf))
 
 Jefferson, D. et al. [_The Genesys System: Evolution as a Theme in Artificial Life_](http://www.cs.ucla.edu/~dyer/Papers/AlifeTracker/Alife91Jefferson.html).
 
